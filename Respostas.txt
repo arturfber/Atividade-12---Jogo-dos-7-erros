@@ -1,0 +1,8 @@
+﻿1 - Linha 24 - O typo do input nome é password (correto = text)
+2 - Linha 44 - O typo do input senha é text (correto = password)
+3 - Linhas 86 a 99 - O conteúdo da propriedade name precisa ser diferente quando trabalhamos com inputs do typo rádio
+4 - Linha 138 - A tag select não possui options
+5 - Linha 149 - A cor do texto inserido é branca, ou seja, é impossível visualiza-la (correto style="color:"black;")
+6 - Linha 185 - O text área possui apenas uma linha assim não permitindo a entrada de dados longos
+7 - Linha 217  - O input type correto seria "reset"
+8 - Linha 191 - Como assim você não clicou no link pra aprender a ser um chavoso?
